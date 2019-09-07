@@ -1,7 +1,7 @@
 # Simple Chat-App
 Simple chat app created with Node.js, Express.js, Socket.io and MongoDB
 ## Table of Contents
----
+
 1. ## Summary
     <p>This is a very basic chat app that i developed while learning Node.js and how to do realtime messaging app using Socket.io</P>
     
